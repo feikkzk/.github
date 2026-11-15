@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">feikkzk</title><desc id="desc">Software a la medida con inteligencia artificial</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#312e81"/></linearGradient></defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#818cf8" stroke-opacity=".3"><circle cx="1100" cy="190" r="145"/><circle cx="1100" cy="190" r="105"/><path d="M900 90 1100 190 1210 70M910 300 1100 190 1230 310"/></g>
+<g fill="#67e8f9"><circle cx="1100" cy="190" r="12"/><circle cx="900" cy="90" r="7"/><circle cx="1210" cy="70" r="7"/><circle cx="910" cy="300" r="7"/><circle cx="1230" cy="310" r="7"/></g>
+<rect x="80" y="75" width="64" height="6" rx="3" fill="#22d3ee"/>
+<text x="76" y="195" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="700" letter-spacing="-5">feikkzk</text>
+<text x="82" y="250" fill="#c7d2fe" font-family="Arial,Helvetica,sans-serif" font-size="28">Software a la medida con IA</text>
+<text x="82" y="308" fill="#a5b4fc" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">IDEAS · SOFTWARE · EVOLUCIÓN</text>
+</svg>
