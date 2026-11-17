@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "source": "https://github.com/feikkzk/brand-design/blob/main/tokens.json",
+  "palette": {
+    "eclipse": {
+      "name": "Ciruela Eclipse",
+      "hex": "#2B1C33",
+      "share": 60
+    },
+    "titanium": {
+      "name": "Seda Titanio",
+      "hex": "#D9D3CC",
+      "share": 30
+    },
+    "amber": {
+      "name": "Destello Ámbar",
+      "hex": "#FF8C12",
+      "share": 10
+    },
+    "rule": "Proporción orientativa de jerarquía visual, no conteo de píxeles. Eclipse domina; titanio permite lectura y contraste; ámbar concentra acciones. Los estados funcionales y el logo monocromo conservan su función."
+  }
+}

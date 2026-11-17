@@ -40,3 +40,9 @@ Aquí mantenemos la presentación pública y los recursos de identidad de **feik
 ---
 
 <p align="center"><strong>feikkzk · Software a la medida con inteligencia artificial.</strong></p>
+
+## Identidad visual
+
+Ciruela Eclipse `#2B1C33` · 60 %, Seda Titanio `#D9D3CC` · 30 %, Destello Ámbar `#FF8C12` · 10 %. Una base ciruela, lectura titanio y acentos ámbar. Logo monocromo elegido con cortes en las tres k.
+
+[Sistema de diseño](https://github.com/feikkzk/brand-design) · [Landing page](https://github.com/feikkzk/landing-page).
