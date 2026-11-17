@@ -46,5 +46,8 @@ Aquí mantenemos la presentación pública y los recursos de identidad de **feik
 Ciruela Eclipse `#2B1C33` · 60 %, Seda Titanio `#D9D3CC` · 30 %, Destello Ámbar `#FF8C12` · 10 %. Una base ciruela, lectura titanio y acentos ámbar. Logo monocromo elegido con cortes en las tres k.
 
 [Sistema de diseño](https://github.com/feikkzk/brand-design) · [Landing page](https://github.com/feikkzk/landing-page).
+<<<<<<< HEAD
 
 La galería, el cursor y el sonido de los proyectos comparten las reglas de movimiento de feikkzk. [Guía de movimiento y audio](https://github.com/feikkzk/brand-design/blob/main/docs/motion.md) · [Contrato de interacción](https://github.com/feikkzk/brand-design/blob/main/ui-contract.json).
+=======
+>>>>>>> 9ba508aa9c2a73005487fc1464fbd5042913adfe
